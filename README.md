@@ -2,7 +2,7 @@
 
 An `NSWindow` with a different radius on each corner, which still adapts to the rounded corners of the display.
 
-<video src="Media/demo.mp4" controls muted></video>
+<video src="https://github.com/user-attachments/assets/65aa4e54-c295-4263-a642-872c173685c9" controls muted></video>
 
 ## Usage
 
